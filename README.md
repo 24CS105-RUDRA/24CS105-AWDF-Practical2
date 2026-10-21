@@ -1,9 +1,9 @@
 # Practical 2: State Management and Routing in React
 
 **Student Details:**
-- **Name:** Dharm Lakhani
-- **Student ID:** 24CS046
-- **Email:** 24cs046@charusat.edu.in
+- **Name:** Rudra Vaghela
+- **Student ID:** 24CS105
+- **Email:** 24cs105@charusat.edu.in
 - **Course:** ITUE301: Advance Web Development Framework
 - **Institute:** CSPIT, Charotar University of Science and Technology (CHARUSAT)
 

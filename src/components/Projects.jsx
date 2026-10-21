@@ -10,7 +10,7 @@ function Projects() {
       category: "React",
       description: "A responsive portfolio application built with React, modular functional components, and React Router client-side routing.",
       technologies: ["React", "React Router", "Vite", "CSS3"],
-      repoLink: "https://github.com/24CS046Dharm/24cs046-awdf-practical1"
+      repoLink: "https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical1"
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ function Projects() {
       category: "Frontend",
       description: "Interactive car showcase application with component hierarchy and reusable card components passing data through props.",
       technologies: ["React", "JavaScript", "HTML5", "CSS3"],
-      repoLink: "https://github.com/24CS046Dharm"
+      repoLink: "https://github.com/24CS105-RUDRA"
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ function Projects() {
       category: "FullStack",
       description: "Web application managing student activities, schedules, and real-time interaction for college departments.",
       technologies: ["Node.js", "Express", "React", "MongoDB"],
-      repoLink: "https://github.com/24CS046Dharm"
+      repoLink: "https://github.com/24CS105-RUDRA"
     }
   ];
 
